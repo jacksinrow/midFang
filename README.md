@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm midFang.</h2>
+## 👋 Hello! I am [midFang](http://midFang.com)
 
 This is the place where I opensource stuff and break things :rofl:
 
