@@ -1,4 +1,5 @@
-### Hi there <a href="https://midFang.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+<h2 align="center">👋 Hello! I'm midFang.</h2>
+
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working on something cool :wink:
